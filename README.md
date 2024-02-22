@@ -1,2 +1,2 @@
-# Tic_Tac_Toe_In_Python
-Simple tic-tac-toe game in Python. This is my first time working with Python extensively, so I feel very accomplished that I figured this out. Try it out!
+# Python_Projects
+As a beginner in Python, I am learning the language by trying out projects and taking online courses. In this repository will be simple projects, but enough to get my foot in the door with Python. Interact with these projects and hopefully you enjoy using them as much as I did creating them!
