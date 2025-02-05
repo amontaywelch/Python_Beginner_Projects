@@ -1,2 +1,9 @@
 # Python_Projects
-As a beginner in Python, I am learning the language by trying out projects and taking online courses. In this repository will be simple projects, but enough to get my foot in the door with Python. Interact with these projects and hopefully you enjoy using them as much as I did creating them!
+
+Here in this repository are games created in Python to supplement my programming skills, but also to create fun games to pass the time with. The games in this repo include:
+- Tic-Tac-Toe
+- Turtle Racing
+- Slot Machine
+- Lottery Simulator
+
+Feel free to check out my other repositories, as those focus data analysis. In here, the goal is to have a release from the world and have fun!
