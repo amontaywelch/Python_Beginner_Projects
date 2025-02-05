@@ -4,6 +4,5 @@ Here in this repository are games created in Python to supplement my programming
 - Tic-Tac-Toe
 - Turtle Racing
 - Slot Machine
-- Lottery Simulator
 
 Feel free to check out my other repositories, as those focus data analysis. In here, the goal is to have a release from the world and have fun!
